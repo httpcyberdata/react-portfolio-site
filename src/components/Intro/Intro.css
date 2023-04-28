@@ -1,0 +1,13 @@
+.i {
+    display: flex;
+    height: 100vh;
+    background-color: aqua;
+}
+
+.i-left {
+    flex: 2;
+}
+
+.i-right {
+    flex: 1;
+}
