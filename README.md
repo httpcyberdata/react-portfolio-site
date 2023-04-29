@@ -1,4 +1,4 @@
-# React Portfolio Website 
+# React Portfolio Website (abandoned)
 - Tutorial URL: https://www.youtube.com/watch?v=hQjlM-8C4Ps
 - Tutorial description:
 
